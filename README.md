@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive sales dashboard visualizing key metrics and performance insights for a coffee shop chain. The dashboard enables data-driven decision-making by analyzing sales, footfall, product performance, order behavior, and customer preferences.
 
-![Coffe Sale Dashboard](./Screenshot 2024-02-15 143928.png)
+![Coffe Sale Dashboard](Screenshot 2024-02-15 143928.png)
 ---
 
 📊 Overview
