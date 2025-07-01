@@ -67,7 +67,7 @@ Top performing products
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/coffee-shop-sales-dashboard.git
+git clone https://github.com/shivesh122/coffee-sales.git
 
 
 2. Open dashboard.pbix in Power BI Desktop.
